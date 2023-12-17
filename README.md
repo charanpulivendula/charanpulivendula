@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanpulivendula&label=Profile%20views&color=0e75b6&style=flat" alt="charanpulivendula" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charanpulivendula" alt="charanpulivendula" /></a> </p>
-
 - 🔭 I’m currently working on [Autonomous Racing Car Dashboard](https://github.com/charanpulivendula/Racing)
 
 - 🌱 I’m currently learning **React JS, Node JS, Socket Programming**
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me **repuli@iu.edu,charanpulivendula1999@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/charanpulivendula/Racing](https://github.com/charanpulivendula/Racing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MV5m99yklemKKZWoFkUkc6ZAeOPfJEhE/view?usp=sharing](https://drive.google.com/file/d/1MV5m99yklemKKZWoFkUkc6ZAeOPfJEhE/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am productive**
 
@@ -31,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charanpulivendula&show_icons=true&locale=en&layout=compact" alt="charanpulivendula" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charanpulivendula&show_icons=true&locale=en" alt="charanpulivendula" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charanpulivendula&" alt="charanpulivendula" /></p>
