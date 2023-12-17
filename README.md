@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/charanpulivendula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charanpulivendula/" height="30" width="40" /></a>
-<a href="mailto:charanpulivendula1999@gmail.com" target="_blank"><img align="center" src="https://github.com/charanpulivendula/charanpulivendula/blob/main/images/mail.png" alt="Gmail" height="40" width="40" /></a>
+<a href="mailto:charanpulivendula1999@gmail.com" target="_blank"><img align="center" src="https://github.com/charanpulivendula/charanpulivendula/blob/main/images/maillogo.png" alt="Gmail" height="40" width="40" /></a>
 <a href="https://instagram.com/__artesy__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__artesy__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sal_b16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sal_b16" height="30" width="40" /></a>
 </p>
