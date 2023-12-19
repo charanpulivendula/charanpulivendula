@@ -3,6 +3,8 @@
 <img src="https://github.com/charanpulivendula/charanpulivendula/blob/main/images/coding.gif" alt="Coding" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanpulivendula&label=Profile%20views&color=0e75b6&style=flat" alt="charanpulivendula" /> </p>
 
+- 📄 My Resume [https://drive.google.com/file/d/1MV5m99yklemKKZWoFkUkc6ZAeOPfJEhE/view?usp=sharing](https://drive.google.com/file/d/1MV5m99yklemKKZWoFkUkc6ZAeOPfJEhE/view?usp=sharing)
+  
 - 🔭 I’m currently working on [Autonomous Racing Car Dashboard](https://github.com/charanpulivendula/Racing)
 
 - 🌱 I’m currently learning **React JS, Node JS, Socket Programming**
@@ -10,8 +12,6 @@
 - 💬 Ask me about **Data Structures and Algorithms, Python, Web Frameworks, Databases**
 
 - 📫 How to reach me **repuli@iu.edu,charanpulivendula1999@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MV5m99yklemKKZWoFkUkc6ZAeOPfJEhE/view?usp=sharing](https://drive.google.com/file/d/1MV5m99yklemKKZWoFkUkc6ZAeOPfJEhE/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am productive**
 
