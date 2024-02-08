@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **repuli@iu.edu,charanpulivendula1999@gmail.com**
 
-- ⚡ Fun fact **I think I am productive**
+- ⚡ Fun fact **Always Productive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
