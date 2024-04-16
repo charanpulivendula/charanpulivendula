@@ -5,7 +5,7 @@
 
 - 📄 My Resume [https://drive.google.com/file/d/1MV5m99yklemKKZWoFkUkc6ZAeOPfJEhE/view?usp=sharing](https://drive.google.com/file/d/1MV5m99yklemKKZWoFkUkc6ZAeOPfJEhE/view?usp=sharing)
   
-- 🔭 I’m currently working on [Autonomous Racing Car Dashboard](https://github.com/charanpulivendula/Racing)
+- 🔭 I’m currently working on [Autonomous Racing Car Dashboard](https://github.com/charanpulivendula/IU_RACING)
 
 - 🌱 I’m currently learning **React JS, Node JS, Socket Programming**
 
