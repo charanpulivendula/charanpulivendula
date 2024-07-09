@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanpulivendula&label=Profile%20views&color=0e75b6&style=flat" alt="charanpulivendula" /> </p>
 
-- 🔭 I’m currently working on [Autonomous Racing Car Dashboard](https://github.com/charanpulivendula/Racing)
+- 🔭 I’m currently working on [Autonomous Racing Car Dashboard](https://github.com/charanpulivendula/IU_Racing_Dashboard)
 
 - 🌱 I’m currently learning **Full Stack Web Development, Azure Cloud**
 
