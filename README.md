@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development, Azure Cloud**
 
-- 👨‍💻 All of my projects are available @ [Github](https://github.com/charanpulivendula](https://github.com/charanpulivendula)
+- 👨‍💻 All of my projects are available @ [Github](https://github.com/charanpulivendula)
 
 - 💬 Ask me about **Data Structures and Algorithms, Python, Web Frameworks, Databases**
 
