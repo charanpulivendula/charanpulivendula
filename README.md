@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/charanpulivendula/charanpulivendula/blob/main/images/background_gif.gif)
 <h1 align="center">Hi 👋, I'm Reddy Charan Pulivendula</h1>
-<h3>A passionate computer science graduate student at Indiana University Bloomington. I thrive on turning ideas into reality through code. My academic journey has equipped me with a strong foundation in data structures, algorithms, web development, and computer networks. I am an Experienced Software Engineer at Hewlett-Packard, contributing to innovative projects and skilled in debugging complex architectures. Actively engaged in cutting-edge projects at the Vehicle Autonomy and Intelligence Lab, focusing on autonomous racing car dashboards. Proficient in Python, Java, C++, and JavaScript, with expertise in technologies like Node JS, React JS, and MongoDB. Excited about collaborating on impactful projects and always open to discussions and contributions. Connect with me on LinkedIn and explore my work on GitHub. Let's code together! 🚀</h3>
+<p>A passionate computer science graduate student at Indiana University Bloomington. I thrive on turning ideas into reality through code. My academic journey has equipped me with a strong foundation in data structures, algorithms, web development, and computer networks. I am an Experienced Software Engineer at Hewlett-Packard, contributing to innovative projects and skilled in debugging complex architectures. Actively engaged in cutting-edge projects at the Vehicle Autonomy and Intelligence Lab, focusing on autonomous racing car dashboards. Proficient in Python, Java, C++, and JavaScript, with expertise in Node JS, React JS, and MongoDB. Excited about collaborating on impactful projects and am always open to discussions and contributions. Connect with me on LinkedIn and explore my work on GitHub. Let's code together! 🚀</p>
 
 <img src="https://github.com/charanpulivendula/charanpulivendula/blob/main/images/coding.gif" alt="Coding" align="right" width="400">
 
@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development, Azure Cloud**
 
-- 👨‍💻 All of my projects are available at [https://github.com/charanpulivendula](https://github.com/charanpulivendula)
+- 👨‍💻 All of my projects are available @ [Github](https://github.com/charanpulivendula](https://github.com/charanpulivendula)
 
 - 💬 Ask me about **Data Structures and Algorithms, Python, Web Frameworks, Databases**
 
 - 📫 How to reach me **repuli@iu.edu,charanpulivendula1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MV5m99yklemKKZWoFkUkc6ZAeOPfJEhE/view?usp=sharing](https://drive.google.com/file/d/1MV5m99yklemKKZWoFkUkc6ZAeOPfJEhE/view?usp=sharing)
+- 📄 Know about my experiences @ [Resume](https://drive.google.com/file/d/1MV5m99yklemKKZWoFkUkc6ZAeOPfJEhE/view?usp=sharing)
 
 - ⚡ Fun fact **Always be productive**
 
