@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **repuli@iu.edu,charanpulivendula1999@gmail.com**
 
-- 📄 Know about my experiences @ [Resume](https://drive.google.com/file/d/1MV5m99yklemKKZWoFkUkc6ZAeOPfJEhE/view?usp=sharing)
+- 📄 Know about my experiences @ [Resume](https://drive.google.com/file/d/1x6mAP6rLIF8s0B7uAUEtl6X7URkLUio4/view?usp=sharing)
 
 - ⚡ Fun fact **Always be productive**
 
