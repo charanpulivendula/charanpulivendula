@@ -1,12 +1,41 @@
 ![MasterHead](https://github.com/charanpulivendula/charanpulivendula/blob/main/images/background_gif.gif)
-<h1 align="center">Hi 👋, I'm Reddy Charan Pulivendula</h1>
-<p>A passionate computer science graduate student at Indiana University Bloomington. I thrive on turning ideas into reality through code. My academic journey has equipped me with a strong foundation in data structures, algorithms, web development, and computer networks. I am an Experienced Software Engineer at Hewlett-Packard, contributing to innovative projects and skilled in debugging complex architectures. I am actively engaged in cutting-edge projects at the Vehicle Autonomy and Intelligence Lab, focusing on autonomous racing car dashboards. Proficient in Python, Java, C++, and JavaScript, with expertise in Node JS, React JS, and MongoDB. I am excited about collaborating on impactful projects and am always open to discussions and contributions. Connect with me on LinkedIn and explore my work on GitHub. Let's code together! 🚀</p>
+<h1 align="center">
+  🚀 Driving Innovation Through Code | Software Engineer
+</h1>
+<p align = "left">
+Hello! I'm Reddy Charan Pulivendula, a passionate Full-Stack Developer and Software Engineer with a keen interest in crafting user-centric solutions, optimizing system performance, and pushing the boundaries of technology. I thrive on blending creativity with precision to solve complex challenges and deliver scalable, cutting-edge applications.
+
+💡 Highlights of My Journey:
+<p>🔹 Engineered a real-time race car dashboard that boosted decision-making by 50% and improved vehicle performance.</p>
+<p>🔹 Designed secure RESTful APIs using .NET Core, streamlining 10,000+ daily transactions and reducing manual efforts by 60%.</p>
+<p>🔹 Ranked All India 6th among 120k participants in the prestigious Code of Geeks coding contest.</p>
+<p>🔹 Directed the creation of impactful data visualization dashboards, enhancing decision-making efficiency by 30%.</p>
+
+🏆 Recognition:
+Featured in media for autonomous racing innovation (IU News, WISH-TV):
+🔗 Luddy School Race Car Debut(https://news.iu.edu/live/news/37910-luddy-school-race-car-debuts-with-strong-showing)
+🔗 Autonomous Racing Future(https://www.wishtv.com/sports/motorsports/autonomous-racing-redefines-the-future/)
+
+Honored with leadership awards at Toastmasters International for impactful mentorship and collaboration.
+
+💻 Technical Arsenal:
+Proficient in React.js, Angular, Node.js, TypeScript, Tailwind CSS, AWS, Spring Boot, Docker, and CI/CD pipelines. Experienced in building microservices, real-time systems, data pipelines, and user-centric web applications.
+
+✨ Talents & Drive:
+As a quick learner with strong problem-solving skills, I excel at adapting to emerging technologies and collaborative environments. My passion lies in mentoring, exploring innovative solutions, and delivering value-driven products that shape the future of tech.
+
+🎯 Objective:
+Actively seeking roles as a Software Engineer or Frontend Developer or Full-Stack Engineer(Front-End focussed or Back-End focussed) where I can leverage my expertise to craft intuitive interfaces, build scalable systems, and drive innovation.
+
+📞 Let's Connect:
+If you're looking for a results-driven engineer with a proven track record in building impactful solutions and optimizing performance, let's collaborate! Always open to discussing new opportunities or exchanging ideas over a cup of coffee. ☕️
+</p>
 
 <img src="https://github.com/charanpulivendula/charanpulivendula/blob/main/images/coding.gif" alt="Coding" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanpulivendula&label=Profile%20views&color=0e75b6&style=flat" alt="charanpulivendula" /> </p>
 
-- 🔭 I’m currently working on [Autonomous Racing Car Dashboard](https://github.com/charanpulivendula/IU_Racing_Dashboard)
+- 🔭 I’m currently working on [Autonomous Racing Car Dashboard](https://photos.google.com/share/AF1QipNqk8INqwVapBGS7gnY3pa4kUJHHObQQuOZ6AWILOwd8VAIsdiI-F83TVLVWhDEAw/photo/AF1QipNwMSFmpPIE0pQTTvAbEpCjnG0bwyLwQVxOzYvQ?key=ZmcwN28tVmY5Ni1QdlJvMkw4cGc1dDRSQ1FRdGN3)
 
 - 🌱 I’m currently learning **Full Stack Web Development, Azure Cloud**
 
