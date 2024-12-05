@@ -43,7 +43,7 @@ If you're looking for a results-driven engineer with a proven track record in bu
 
 - 💬 Ask me about **Data Structures and Algorithms, Python, Web Frameworks, Databases**
 
-- 📫 How to reach me **repuli@iu.edu,charanpulivendula1999@gmail.com**
+- 📫 How to reach me **repuli@iu.edu,reddycharanpuli@gmail.com**
 
 - 📄 Know about my experiences @ [Resume](https://drive.google.com/file/d/1x6mAP6rLIF8s0B7uAUEtl6X7URkLUio4/view?usp=sharing)
 
