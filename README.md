@@ -40,6 +40,8 @@ If you're looking for a results-driven engineer with a proven track record in bu
 
 - 🌱 I’m currently learning **Full Stack Web Development, Azure Cloud**
 
+- 🧒 My profile is available @[Portfolio](https://reddycharanpulivendula.netlify.app) 
+
 - 👨‍💻 All of my projects are available @ [Github](https://github.com/charanpulivendula)
 
 - 💬 Ask me about **Data Structures and Algorithms, Python, Web Frameworks, Databases**
